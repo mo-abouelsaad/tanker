@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:398668387758:ios:b339b3d5ecb40509ba643f</string>
+	<string>1:XXXXXXX:ios:XXXXXXX</string>
 	<key>DATABASE_URL</key>
 	<string>https://tnkuwait2020.firebaseio.com</string>
 </dict>

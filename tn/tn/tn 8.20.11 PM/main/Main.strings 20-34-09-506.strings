@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1LD-y0-UGS"; */
+"1LD-y0-UGS.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "إضافة بريد الكتروني"; ObjectID = "5Nu-xC-Cdv"; */
+"5Nu-xC-Cdv.placeholder" = "إضافة بريد الكتروني";
+
+/* Class = "UITabBarItem"; title = "About"; ObjectID = "8XD-P5-zfo"; */
+"8XD-P5-zfo.title" = "About";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "APH-Z6-iOJ"; */
+"APH-Z6-iOJ.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Logout"; ObjectID = "Ack-dI-8UR"; */
+"Ack-dI-8UR.title" = "Logout";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "B87-jc-EwN"; */
+"B87-jc-EwN.placeholder" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "Order in Cash"; ObjectID = "DES-kh-FWX"; */
+"DES-kh-FWX.normalTitle" = "Order in Cash";
+
+/* Class = "UIButton"; normalTitle = "Pay in KNET or Visa"; ObjectID = "EHn-GU-4PV"; */
+"EHn-GU-4PV.normalTitle" = "Pay in KNET or Visa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ETN-gO-p6L"; */
+"ETN-gO-p6L.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "اسم العائلة"; ObjectID = "FJZ-EC-pYj"; */
+"FJZ-EC-pYj.placeholder" = "اسم العائلة";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "H07-Ep-om9"; */
+"H07-Ep-om9.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ID0-MK-QVc"; */
+"ID0-MK-QVc.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Orders"; ObjectID = "Kmi-i2-lzF"; */
+"Kmi-i2-lzF.title" = "Orders";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L8h-vV-Kle"; */
+"L8h-vV-Kle.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "50008957"; ObjectID = "OKp-AS-Wqu"; */
+"OKp-AS-Wqu.normalTitle" = "50008957";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P10-9l-9i2"; */
+"P10-9l-9i2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qfo-y0-caI"; */
+"Qfo-y0-caI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RBW-vD-2qR"; */
+"RBW-vD-2qR.text" = "Label";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "UBk-cq-TX9"; */
+"UBk-cq-TX9.text" = "Support";
+
+/* Class = "UITabBarItem"; title = "Update"; ObjectID = "Uwn-rK-1LU"; */
+"Uwn-rK-1LU.title" = "Update";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "cqJ-IO-gJu"; */
+"cqJ-IO-gJu.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "99707414"; ObjectID = "fpy-W1-FJp"; */
+"fpy-W1-FJp.normalTitle" = "99707414";
+
+/* Class = "UITabBarItem"; title = "الدعم"; ObjectID = "iwh-Zj-n1B"; */
+"iwh-Zj-n1B.title" = "الدعم";
+
+/* Class = "UIButton"; normalTitle = "50008957"; ObjectID = "jZp-sF-o7W"; */
+"jZp-sF-o7W.normalTitle" = "50008957";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "k8l-1z-i3r"; */
+"k8l-1z-i3r.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l0v-Um-z3o"; */
+"l0v-Um-z3o.text" = "Label";
+
+/* Class = "UILabel"; text = "برنامج TN هو تطبيق خدمي يضم مختلف الخدمات مثل توصيل  تنكر المياة و تنكر الديزل و تنكر الصرف انتاج شركة TN جميع الحقوق محفوظة لعام ٢٠٢٠"; ObjectID = "lpU-bW-koS"; */
+"lpU-bW-koS.text" = "برنامج TN هو تطبيق خدمي يضم مختلف الخدمات مثل توصيل  تنكر المياة و تنكر الديزل و تنكر الصرف انتاج شركة TN جميع الحقوق محفوظة لعام ٢٠٢٠";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rZU-LL-55B"; */
+"rZU-LL-55B.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "vPD-p3-iR9"; */
+"vPD-p3-iR9.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wgR-uZ-4nD"; */
+"wgR-uZ-4nD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z4x-dy-wLV"; */
+"z4x-dy-wLV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "99707414"; ObjectID = "zCR-a5-BXF"; */
+"zCR-a5-BXF.normalTitle" = "99707414";

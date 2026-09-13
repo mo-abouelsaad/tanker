@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1LD-y0-UGS"; */
+"1LD-y0-UGS.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "اسم العائلة"; ObjectID = "2t7-xX-SoA"; */
+"2t7-xX-SoA.placeholder" = "اسم العائلة";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "B87-jc-EwN"; */
+"B87-jc-EwN.placeholder" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "Order in Cash"; ObjectID = "DES-kh-FWX"; */
+"DES-kh-FWX.normalTitle" = "Order in Cash";
+
+/* Class = "UIButton"; normalTitle = "Pay in KNET or Visa"; ObjectID = "EHn-GU-4PV"; */
+"EHn-GU-4PV.normalTitle" = "Pay in KNET or Visa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ETN-gO-p6L"; */
+"ETN-gO-p6L.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "اسم العائلة"; ObjectID = "FJZ-EC-pYj"; */
+"FJZ-EC-pYj.placeholder" = "اسم العائلة";
+
+/* Class = "UITextField"; placeholder = "البريد الالكتروني"; ObjectID = "H07-Ep-om9"; */
+"H07-Ep-om9.placeholder" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ID0-MK-QVc"; */
+"ID0-MK-QVc.text" = "Label";
+
+/* Class = "UILabel"; text = "+965"; ObjectID = "Kk7-eX-xff"; */
+"Kk7-eX-xff.text" = "+965";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L8h-vV-Kle"; */
+"L8h-vV-Kle.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "XHw-gQ-FZf"; */
+"XHw-gQ-FZf.placeholder" = "الاسم";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "cqJ-IO-gJu"; */
+"cqJ-IO-gJu.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "k8l-1z-i3r"; */
+"k8l-1z-i3r.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l0v-Um-z3o"; */
+"l0v-Um-z3o.text" = "Label";
+
+/* Class = "UILabel"; text = "برنامج TN هو تطبيق خدمي يضم مختلف الخدمات مثل توصيل  تانكر المياة و تانكر الديزل و تانكر الصرف انتاج شركة TN جميع الحقوق محفوظة لعام ٢٠٢٠"; ObjectID = "lpU-bW-koS"; */
+"lpU-bW-koS.text" = "برنامج TN هو تطبيق خدمي يضم مختلف الخدمات مثل توصيل  تانكر المياة و تانكر الديزل و تانكر الصرف انتاج شركة TN جميع الحقوق محفوظة لعام ٢٠٢٠";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rZU-LL-55B"; */
+"rZU-LL-55B.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "vPD-p3-iR9"; */
+"vPD-p3-iR9.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wgR-uZ-4nD"; */
+"wgR-uZ-4nD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z4x-dy-wLV"; */
+"z4x-dy-wLV.text" = "Label";

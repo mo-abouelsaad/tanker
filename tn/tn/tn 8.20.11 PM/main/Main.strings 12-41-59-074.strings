@@ -1,0 +1,60 @@
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "5uh-HR-xxi"; */
+"5uh-HR-xxi.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Aw-r6-43e"; */
+"8Aw-r6-43e.text" = "Label";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "BTO-aE-xYW"; */
+"BTO-aE-xYW.text" = "Support";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "C8s-B3-F9b"; */
+"C8s-B3-F9b.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DFO-9h-RFc"; */
+"DFO-9h-RFc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Daz-i2-PtX"; */
+"Daz-i2-PtX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "اظهر الإتجاهات"; ObjectID = "IGX-J9-k9U"; */
+"IGX-J9-k9U.normalTitle" = "Show Directions";
+
+/* Class = "UITextField"; placeholder = "البريد الالكتروني"; ObjectID = "JGa-8A-66M"; */
+"JGa-8A-66M.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "إنهاء الطلب"; ObjectID = "MMS-1s-pcY"; */
+"MMS-1s-pcY.normalTitle" = "End Order";
+
+/* Class = "UIButton"; normalTitle = "50008957"; ObjectID = "NLn-gN-hyb"; */
+"NLn-gN-hyb.normalTitle" = "50008957";
+
+/* Class = "UITextField"; placeholder = "اسم العائلة"; ObjectID = "VUZ-hK-BkN"; */
+"VUZ-hK-BkN.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y6X-RY-Bip"; */
+"Y6X-RY-Bip.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "99707414"; ObjectID = "gRS-Mr-X65"; */
+"gRS-Mr-X65.normalTitle" = "99707414";
+
+/* Class = "UITextField"; placeholder = "Insert OTP"; ObjectID = "iKC-n5-jKl"; */
+"iKC-n5-jKl.placeholder" = "Insert OTP";
+
+/* Class = "UIButton"; normalTitle = "99707414"; ObjectID = "kML-hR-1FM"; */
+"kML-hR-1FM.normalTitle" = "99707414";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "lja-Zo-aes"; */
+"lja-Zo-aes.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "برنامج TN هو تطبيق خدمي يضم مختلف الخدمات مثل توصيل  تنكر المياة و تنكر الديزل و تنكر الصرف انتاج شركة TN جميع الحقوق محفوظة لعام ٢٠٢٠"; ObjectID = "pXs-Uc-6xH"; */
+"pXs-Uc-6xH.text" = "TN App is a Service Application for Tankers Delivery for Home All Rights Reserved for 2020";
+
+/* Class = "UIButton"; normalTitle = "50008957"; ObjectID = "q9o-uZ-YjF"; */
+"q9o-uZ-YjF.normalTitle" = "50008957";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "uxE-ol-L0d"; */
+"uxE-ol-L0d.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wAK-fb-vIq"; */
+"wAK-fb-vIq.text" = "Label";

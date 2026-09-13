@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TN</string>
+    <string name="default_notification_channel_id">mm</string>
+    <string name="notifications_admin_channel_name">Android4Dev</string>
+    <string name="notifications_admin_channel_description">Android4Dev Firebase PushNotification</string>
+        <string name="fname">ألإسم</string>
+        <string name="lname">إسم العائلة</string>
+        <string name="mob">رقم الجوال</string>
+        <string name="get">الحصول علي الكود</string>
+        <string name="otp">الكود</string>
+        <string name="login">تسجيل دخول </string>
+        <string name="updateemail">تحديث او اضافة الإيميل</string>
+        <string name="Save">حفظ</string>
+        <string name="cs">الدعم الفني</string>
+        <string name="about"> نحن مجموعة شباب  نسعى  لتقديم افضل الخدمات لدينا لعملائنا الكرام
+تمثل هذه الضوابط والشروط اتفاق رسمي "عقد" بين منصة تنكر والعملاء المستخدمين لمنصة تنكر
+
+والذي هو عبارة عن منصة إلكترونية تسمح للسائقين بتقديم خدمة توصيل خدمات تنكر نيابة عن العملاء والتوصيل إلى منازلهم أو في المواقع التي يتم تحديدها مسبقاً من العملاء، حيث يقوم "تنكر" بإتاحة الفرصة للعميل لاختيار المندوب المناسب للقيام بعملية التوصيل.
+
+إن أي استخدام من قبلك للخدمات التي توفرها منصة تنكر  يشكل موافقة منك على هذا العقد وأحكامه، وتبعاً لذلك يجب عليك عدم استخدام المنصة في حال لم تكن موافقاً على الأحكام والشروط الواردة في هذا العقد.
+
+ تحتفظ تنكر  بحق تعديل أو تغيير هذه الأحكام والشروط دون إخطار مسبق، ويكون من مسؤوليتك كمستخدم للمنصة مراجعة ضوابط وشروط الاستخدام بشكل دوري لمعرفة التحديثات التي تطرأ على الأحكام والشروط هذه، من خلال الرابط (http://www.tankerkw.com ) كما نأمل مراجعة سياسة الخصوصية لدينا لمعرفة المزيد حول كيفية استخدام تنكر للمعلومات التي تقدم لنا من قبل مستخدمي المنصة</string>
+        <string name="qty">اختر الكمية</string>
+        <string name="water">تنكر ماء</string>
+        <string name="diesel">تنكر ديزل</string>
+        <string name="weser">تنكر صرف</string>
+        <string name="go">الذهاب الي العميل </string>
+        <string name="end">انهاء الرحلة</string>
+        <string name="cash">الدفع كاش</string>
+        <string name="knet">الدفع باستخدام كنيت</string>
+
+</resources>

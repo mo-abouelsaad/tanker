@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TN</string>
+    <string name="default_notification_channel_id">mm</string>
+    <string name="notifications_admin_channel_name">Android4Dev</string>
+    <string name="notifications_admin_channel_description">Android4Dev Firebase PushNotification</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="mob">Mobile Number</string>
+    <string name="get">Get Code</string>
+    <string name="otp">OTP</string>
+    <string name="login">Login</string>
+    <string name="updateemail">Update Email</string>
+    <string name="Save">Save</string>
+    <string name="about">We are a youth group that strives to provide our best services to our valued customers These terms and conditions represent a formal "contract" agreement between the masquerade platform and the customers who use the masquerade platform  Which is an electronic platform that allows drivers to provide a service that denies services on behalf of clients and delivers them to their homes or at locations previously determined by customers, where "Deny" provides the opportunity for the customer to choose the appropriate representative to carry out the delivery.  Any use by you of the services provided by the deny platform constitutes your agreement to this contract and its provisions, and accordingly you must not use the platform if you do not agree with the terms and conditions contained in this contract.   Tnker reserves the right to amend or change these terms and conditions without prior notice, and it is your responsibility as a user of the platform to review the terms and conditions of use periodically to learn about updates to these terms and conditions, through the link (http: //www.tankerkw.com) We also hope to review the privacy policy We have to find out more about how to deny the information provided to us by platform users</string>
+    <string name="cs">Customer Service</string>
+    <string name="qty">Choose Quanitity</string>
+    <string name="water">Water Tanker</string>
+    <string name="diesel">Diesel Tanker</string>
+    <string name="weser">Weser Tanker</string>
+    <string name="go">Go to Order</string>
+    <string name="end">End Trip</string>
+    <string name="cash">Pay Cash</string>
+    <string name="knet">Pay Kent</string>
+</resources>

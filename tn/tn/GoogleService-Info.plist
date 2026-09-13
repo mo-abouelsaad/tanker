@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>398668387758-e60k903d8n378kgc3toq1eho0d5r6be8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.398668387758-e60k903d8n378kgc3toq1eho0d5r6be8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>398668387758-fvsfd90bsm7k8fl8e5to9536bn3psido.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCACEUaTA3F7SPiW4Moqy2dDj7KEGVfk4s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>398668387758</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tn.tnuser</string>
+	<key>PROJECT_ID</key>
+	<string>tnkuwait2020</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tnkuwait2020.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:398668387758:ios:b339b3d5ecb40509ba643f</string>
+	<key>DATABASE_URL</key>
+	<string>https://tnkuwait2020.firebaseio.com</string>
+</dict>
+</plist>
